@@ -1,0 +1,50 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+<aura:attribute name="togglePlay" type="String" default="stop"/>
+<aura:attribute name="funState" type="Boolean" default="false"/>
+<aura:attribute name="danceState" type="Boolean" default="false"/>
+<aura:attribute name="badazState" type="Boolean" default="false"/>
+
+<div class="slds-card">
+        <div class="slds-grid slds-einstein-header slds-card__header">
+            
+        <header class="slds-media slds-media_center slds-has-flexi-truncate">  
+        <lightning:dynamicIcon type="eq" option="{!v.togglePlay}" alternativeText="Walk on song playing" class="slds-media__figure"/>
+        
+        <div class="slds-media__body">
+            <h2>
+                <span class="slds-text-heading_small">Walk On Song Previewer</span>
+            </h2>        
+        </div>
+        <img src="{!$Resource.dj_astro}" class="slds-einstein-header__figure slds-size_1-of-4 slds-medium-size_2-of-12"></img>
+        </header>
+        </div>
+
+        <lightning:buttonGroup class="slds-align_absolute-center">
+                <lightning:buttonStateful
+                state="{!v.funState}"
+                variant="inverse"
+                labelWhenOn="¡Fun!"
+                labelWhenOff="MOAR Fun"
+                onclick="{! c.handleFun }"/>
+
+                <lightning:buttonStateful
+                state="{!v.danceState}"
+                variant="inverse"
+                labelWhenOn="¡Dance!"
+                labelWhenOff="MOAR Dance"
+                onclick="{! c.handleDance }"/>
+
+                <lightning:buttonStateful
+                state="{!v.badazState}"
+                variant="inverse"
+                labelWhenOn="¡Bad A**!"
+                labelWhenOff="MOAR Bad A**"
+                onclick="{! c.handleBadAzz }"/>
+
+        </lightning:buttonGroup>
+      
+        <div class="slds-p-top_small">
+                {!v.body}
+        </div>                
+</div>
+</aura:component>	

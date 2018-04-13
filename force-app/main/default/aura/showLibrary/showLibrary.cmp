@@ -1,0 +1,4 @@
+<aura:component implements="flexipage:availableForAllPageTypes, force:lightningQuickAction">
+
+    <lightning:button variant="brand" label="Show Component Library" onclick="{! c.handleClick }"/>
+</aura:component>	

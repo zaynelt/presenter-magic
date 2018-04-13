@@ -1,0 +1,25 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <aura:attribute name="userId" type="String" default="abdc"/>
+    <aura:attribute name="accept" type="List" default="['.ppt', '.pptx', '.key', '.pdf']"/>
+    <aura:attribute name="multiple" type="Boolean" default="true"/>
+    <aura:attribute name="disabled" type="Boolean" default="false"/>
+    <aura:handler name="init" action="{!c.doInit}" value="this"/>
+<div class="slds-card">
+    <lightning:fileUpload  name="fileUploader"
+                           label= "Demo Upload"
+                           multiple="{!v.multiple}"
+                           accept="{!v.accept}"
+                           disabled="{!v.disabled}"
+                           recordId="{!v.userId}"
+                           onuploadfinished="{! c.handleUploadFinished }"/>
+
+<lightning:listView aura:id="fileActions"
+    objectApiName="ContentVersion"
+    listName=""
+    rows="5"
+    showActionBar="true"
+    enableInlineEdit="true"
+    showRowLevelActions="true" />
+
+</div>
+</aura:component>	

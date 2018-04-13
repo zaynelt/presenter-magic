@@ -1,0 +1,15 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="selection" type="String" /> 
+    <aura:attribute name="options" type="List" default="[]"/>
+    <aura:attribute name="value" type="List" default="[]"/>
+    <aura:registerEvent name="songSelection" type="c:songSelectEvt"/>
+    <aura:handler name="init" action="{!c.doInit}" value="this"/>
+    
+    <lightning:checkboxGroup name="songList"
+                             label="(Optional) How do you want to start?"
+                             options="{!v.options}"
+                             value="{!v.value}"
+                             onchange="{!c.handleSelect}"
+                             class="slds-size_1-of-1 slds-p-around_small"/>
+
+</aura:component>	

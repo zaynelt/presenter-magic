@@ -1,0 +1,17 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+
+
+<div class="slds-card">
+    <lightning:layout horizontalAlign="center" verticalAlign="center" multipleRows="true">
+    <lightning:layoutItem>
+        <lightning:button variant="success" label="Let's get this party started!" onclick="{!c.kickoffAll}"/>
+       <div class="slds-p-bottom_small"/>
+        <c:songSelector aura:id="songs" />
+        
+    </lightning:layoutItem>
+    <lightning:layoutItem>
+        <c:slidePresenter aura:id="slides"/>
+    </lightning:layoutItem>
+    </lightning:layout>
+</div>
+</aura:component>	
