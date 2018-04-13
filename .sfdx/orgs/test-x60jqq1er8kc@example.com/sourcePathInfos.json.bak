@@ -2,7 +2,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -122,7 +122,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelper.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelperController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelperController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelperHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelperHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelperRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/fileHelper/fileHelperRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -272,7 +272,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -302,7 +302,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelper.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -317,7 +317,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelperController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelperController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelperHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelperHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelperRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/presentationHelper/presentationHelperRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -362,7 +362,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -407,7 +407,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -422,7 +422,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -437,7 +437,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -452,7 +452,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibrary.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -467,7 +467,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibraryController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibraryController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -482,7 +482,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibraryHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibraryHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -497,7 +497,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibraryRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/showLibrary/showLibraryRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -512,7 +512,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -527,7 +527,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -557,7 +557,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -572,7 +572,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -587,7 +587,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -602,7 +602,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenter.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -617,7 +617,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenterController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenterController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -632,7 +632,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenterHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenterHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -647,7 +647,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenterRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/slidePresenter/slidePresenterRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -662,7 +662,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelectEvt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelectEvt",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -677,7 +677,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelectEvt/songSelectEvt.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelectEvt/songSelectEvt.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -692,7 +692,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelectEvt/songSelectEvt.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelectEvt/songSelectEvt.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -707,7 +707,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -722,7 +722,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -737,7 +737,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -752,7 +752,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -767,7 +767,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -782,7 +782,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -797,7 +797,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelector.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -812,7 +812,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelectorController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelectorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -827,7 +827,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelectorHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelectorHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -842,7 +842,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelectorRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/songSelector/songSelectorRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -857,7 +857,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -872,7 +872,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -887,7 +887,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -902,7 +902,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -917,7 +917,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -932,7 +932,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -947,7 +947,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSong.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -962,7 +962,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSongController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSongController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -977,7 +977,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSongHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSongHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -992,7 +992,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSongRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic/force-app/main/default/aura/walkOnSong/walkOnSongRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -1007,7 +1007,7 @@
     [
         "/Users/zayne.turner/SFDX/presenter-magic",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/zayne.turner/SFDX/presenter-magic",
             "isDirectory": true,
             "isMetadataFile": false,
