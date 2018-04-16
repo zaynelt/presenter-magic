@@ -10,7 +10,7 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 	```
 	sfdx force:auth:web:login -d -a *myhub* 
 	```
-- Clone the food-truck repo:
+- Clone the presenter-magic repo:
 	
 	```
 	git clone https://github.com/zaynelt/presenter-magic
@@ -25,10 +25,10 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 	```
 	sfdx force:source:push
 	```
-- Assign the 'ZBS_Content' permset to your user: 
+- Assign the 'PresenterMagic' permset to your user: 
 	
 	```
-	sfdx force:user:permset:assign -n presentermagic
+	sfdx force:user:permset:assign -n PresenterMagic
 	```
 - Open the scratch org:
 	
