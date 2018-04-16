@@ -1,5 +1,5 @@
 # Presenter Magic: 
-Bring fun and maybe a bit more organization to your presentations! Plus, incorporate some cool tricks from the Lightning framework. Thanks to Salesforce DX, you can grok, rock and even contribute back to this project if you want. 
+Bring fun and maybe a bit more organization to your presentations! Plus, incorporate some cool tricks from the Lightning framework. Thanks to Salesforce DX, you can grok, rock and contribute back to this project if you want. 
 
 ## Installation instructions:
 
