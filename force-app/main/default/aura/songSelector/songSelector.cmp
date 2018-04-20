@@ -2,9 +2,10 @@
     <aura:attribute name="selection" type="String" /> 
     <aura:attribute name="options" type="List" default="[]"/>
     <aura:attribute name="value" type="List" default="[]"/>
-    <aura:registerEvent name="songSelection" type="c:songSelectEvt"/>
-    <aura:handler name="init" action="{!c.doInit}" value="this"/>
     
+    <aura:registerEvent name="songSelect" type="c:songSelectEvt"/>
+    <aura:handler name="init" action="{!c.doInit}" value="this"/>
+
     <lightning:checkboxGroup name="songList"
                              label="(Optional) How do you want to start?"
                              options="{!v.options}"

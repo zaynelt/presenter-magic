@@ -1,15 +1,16 @@
 <aura:component implements="flexipage:availableForAllPageTypes" access="global">
-
+    <aura:attribute name="walkOnSong" type="String"/>
+    <aura:handler event="c:songSelectEvt" action="{!c.setSong}"/>
 
 <div class="slds-card">
     <lightning:layout horizontalAlign="center" verticalAlign="center" multipleRows="true">
     <lightning:layoutItem>
         <lightning:button variant="success" label="Let's get this party started!" onclick="{!c.kickoffAll}"/>
        <div class="slds-p-bottom_small"/>
-        <c:songSelector aura:id="songs" />
-        
+        <c:songSelector aura:id="song" />
+        <c:songHelper aura:id="songHelper"/>
     </lightning:layoutItem>
-    <lightning:layoutItem>
+    <lightning:layoutItem class="">
         <c:slidePresenter aura:id="slides"/>
     </lightning:layoutItem>
     </lightning:layout>

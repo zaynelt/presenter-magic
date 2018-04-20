@@ -1,4 +1,10 @@
-<aura:component implements="flexipage:availableForAllPageTypes, force:lightningQuickAction">
-
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <!--214 onClick attempt-->
+    <!--aura:handler name="init" action="{!c.onInit}" value="{!this}"/-->
+    <aura:handler name="render" value="{!this}" action="{!c.onInit}"/>
+    <div class="slds-align_absolute-center">
     <lightning:button variant="brand" label="Show Component Library" onclick="{! c.handleClick }"/>
-</aura:component>	
+    </div>
+</aura:component>

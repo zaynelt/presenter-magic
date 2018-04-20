@@ -4,9 +4,11 @@
         component.set("v.togglePlay", "stop");
         component.set("v.body", []);
     },
-    startPlay : function(component, event, song){
+    startPlay : function(component, event){
        //create the player component
-        $A.createComponent(
+       var params = event.getParam('arguments');
+       var song = params.song;
+       $A.createComponent(
             "aura:html",
             { tag: "iframe",
                 body: 'value',
@@ -18,10 +20,9 @@
             },
             function(newCmp, status, errorMessage){
                 if(status === "SUCCESS"){
-                    component.set("v.togglePlay", "play");
-                    var body = component.get("v.body");
-                    body.push(newCmp);
-                    component.set("v.body", body);
+                    var temp = component.get("v.body");
+                    temp.push(newCmp);
+                    component.set("v.body", temp);   
                 }
                 else {
                     console.log("oops. error:", errorMessage);

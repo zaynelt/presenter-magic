@@ -1,25 +1,31 @@
-<aura:component implements="flexipage:availableForAllPageTypes">
+<aura:component implements="flexipage:availableForAllPageTypes" controller="fileListController">
     <aura:attribute name="userId" type="String" default="abdc"/>
-    <aura:attribute name="accept" type="List" default="['.ppt', '.pptx', '.key', '.pdf']"/>
+    <aura:attribute name="accept" type="List" default="['.ppt', '.pptx','.pdf']"/>
     <aura:attribute name="multiple" type="Boolean" default="true"/>
     <aura:attribute name="disabled" type="Boolean" default="false"/>
+    <aura:attribute name="fileList" type="Object[]"/>
     <aura:handler name="init" action="{!c.doInit}" value="this"/>
-<div class="slds-card">
-    <lightning:fileUpload  name="fileUploader"
-                           label= "Demo Upload"
-                           multiple="{!v.multiple}"
-                           accept="{!v.accept}"
-                           disabled="{!v.disabled}"
-                           recordId="{!v.userId}"
-                           onuploadfinished="{! c.handleUploadFinished }"/>
 
-<lightning:listView aura:id="fileActions"
-    objectApiName="ContentVersion"
-    listName=""
-    rows="5"
-    showActionBar="true"
-    enableInlineEdit="true"
-    showRowLevelActions="true" />
-
-</div>
+    <div class="slds-card">
+        <div class="slds-p-bottom_small">
+        <lightning:fileUpload  name="fileUploader"
+                            label= "Upload Presentation"
+                            multiple="{!v.multiple}"
+                            accept="{!v.accept}"
+                            disabled="{!v.disabled}"
+                            recordId="{!v.userId}"
+                            onuploadfinished="{! c.handleUploadFinished }"/>
+        </div>
+        <div>
+            <aura:if isTrue="{!v.fileList}">
+                <lightning:layout horizontalAlign="space" verticalAlign="center" multipleRows="true">
+                <aura:iteration items="{!v.fileList}" var="file">
+                        <lightning:layoutItem class="slds-p-bottom_small">
+                                <lightning:fileCard fileId="{!file.Id}"/>
+                        </lightning:layoutItem>
+                </aura:iteration>
+                </lightning:layout>
+            </aura:if>
+        </div>
+    </div>
 </aura:component>	
