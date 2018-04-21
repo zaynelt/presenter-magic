@@ -12,10 +12,10 @@
         
         <div class="slds-media__body">
             <h2>
-                <span class="slds-text-heading_small">Walk On Song Previewer</span>
+                <span class="slds-text-heading_medium">Walk On Song Previewer</span>
             </h2>        
         </div>
-        <img src="{!$Resource.dj_astro}" class="slds-einstein-header__figure slds-size_1-of-4 slds-medium-size_2-of-12"></img>
+        <img src="{!$Resource.dj_astro}" class="slds-einstein-header__figure slds-size_1-of-4 dj"></img>
         </header>
         </div>
 

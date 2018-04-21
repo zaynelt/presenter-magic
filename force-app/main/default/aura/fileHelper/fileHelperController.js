@@ -3,7 +3,7 @@
         component.set("v.userId", $A.get("$SObjectType.CurrentUser.Id"));
         helper.getFiles(component);
     },
-    handleUploadFinished: function (component, event) {
+    handleUploadFinished: function (component, event, helper) {
         // This will contain the List of File uploaded data and status
         var uploadedFiles = event.getParam("files");
         console.log(uploadedFiles);
