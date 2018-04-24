@@ -10,7 +10,7 @@
         <c:songSelector aura:id="song" />
         <c:songHelper aura:id="songHelper"/>
     </lightning:layoutItem>
-    <lightning:layoutItem class="">
+    <lightning:layoutItem>
         <c:slidePresenter aura:id="slides"/>
     </lightning:layoutItem>
     </lightning:layout>

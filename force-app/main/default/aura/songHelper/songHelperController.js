@@ -1,10 +1,5 @@
 ({
-    stopPlay : function(component) {
-        //turn off song
-        component.set("v.togglePlay", "stop");
-        component.set("v.body", []);
-    },
-    startPlay : function(component, event){
+    startPlay : function(component, event, helper){
        //create the player component
        var params = event.getParam('arguments');
        var song = params.song;
@@ -22,12 +17,14 @@
                 if(status === "SUCCESS"){
                     var temp = component.get("v.body");
                     temp.push(newCmp);
-                    component.set("v.body", temp);   
+                    component.set("v.body", temp); 
+                    helper.watchPlay(component, helper); 
                 }
                 else {
                     console.log("oops. error:", errorMessage);
                 }
             }
         );
-    }
+    },
+    
 })
