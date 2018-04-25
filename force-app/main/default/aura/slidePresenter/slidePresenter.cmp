@@ -1,6 +1,7 @@
 <aura:component>
     <aura:attribute name="keynoteFile" type="String" default="0699A0000008TEqQAM"/>
     <aura:method name="slidesKO" action="{!c.kickoffSlides}"/>
+    
     <div class="slds-p-around_small">
         <lightning:fileCard fileId="{!v.keynoteFile}" />
     </div>

@@ -40,7 +40,6 @@
             component.set("v.danceState", false);
             component.set("v.togglePlay", "stop");
             component.set("v.body", []);
-            //old start:28
             var dorothy = "https://www.youtube-nocookie.com/embed/obR-9gfmkQY?rel=0&amp;start=33&amp;autoplay=1";
             helper.startPlay(component, event, dorothy);
         } else if (component.get("v.badazState") === false){

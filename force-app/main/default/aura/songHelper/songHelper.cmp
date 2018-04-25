@@ -1,9 +1,9 @@
 <aura:component>
-    <!--aura:handler name="render" value="{!this}" action="{!c.onRender}"/-->
     <aura:method name="start" action="{!c.startPlay}">
         <aura:attribute name="song" type="String" />
     </aura:method>
     <aura:method name="stop" action="{!c.stopPlay}"/>
+
     <div class="player">
     {!v.body}
     </div>
