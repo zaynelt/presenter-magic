@@ -42,4 +42,7 @@ Or, deploy to SFDX using this button:
 
 (Mad props 2 [Wade Wegner](https://github.com/wadewegner/sfdx-simple/) for the button magic...)
 
+##Configuration:
+Once you've installed the app, you'll need to upload the file(s) you want to present to your scratch org. You can do this under the 'Assembler' tab.
 
+In order to use the Launchpad, you'll need to update the 'keynoteSlides' attribute in the slidePresenter component markup to match the ContentDocument Id for the file you want to present.
