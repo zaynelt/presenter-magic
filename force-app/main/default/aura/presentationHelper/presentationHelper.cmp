@@ -5,7 +5,7 @@
 <div class="slds-card">
     <lightning:layout horizontalAlign="center" verticalAlign="center" multipleRows="true">
     <lightning:layoutItem>
-        <lightning:button variant="success" label="Let's get this party started!" onclick="{!c.kickoffAll}"/>
+        <lightning:button variant="brand" class="btn" label="Let's get this party started!" onclick="{!c.kickoffAll}"/>
        <div class="slds-p-bottom_small"/>
         <c:songSelector aura:id="song" />
         <c:songHelper aura:id="songHelper"/>

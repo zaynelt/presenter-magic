@@ -1,3 +1,4 @@
-.THIS {
-    
+.THIS .btn{
+    background-color: token(themeComplimentLight);
+    border-color: token(themeComplimentLight);
 }

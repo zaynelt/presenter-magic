@@ -15,6 +15,7 @@
             },
             function(newCmp, status, errorMessage){
                 if(status === "SUCCESS"){
+                    console.log('success');
                     var temp = component.get("v.body");
                     temp.push(newCmp);
                     component.set("v.body", temp); 
