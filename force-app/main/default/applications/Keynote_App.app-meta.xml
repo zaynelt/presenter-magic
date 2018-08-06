@@ -6,12 +6,11 @@
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
-    <description>Keynote content and tools</description>
+    <description>Presentation content and tools</description>
     <formFactors>Large</formFactors>
     <label>Keynote App</label>
     <navType>Standard</navType>
     <tabs>Launchpad</tabs>
     <tabs>Assembler</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Keynote_App_UtilityBar</utilityBar>
 </CustomApplication>

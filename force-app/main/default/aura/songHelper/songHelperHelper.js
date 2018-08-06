@@ -5,7 +5,7 @@
                 console.log('stop invoke:');
                 helper.stopPlay(component);
                 //duration may need to change, based on connectivity
-            }), 16880
+            }), 18000
         );
     },
     stopPlay : function(component) {

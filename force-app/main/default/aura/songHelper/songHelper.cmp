@@ -4,7 +4,7 @@
     </aura:method>
     <aura:method name="stop" action="{!c.stopPlay}"/>
 
-    <div class="player">
+    <div class="player slds-hide">
     {!v.body}
     </div>
 </aura:component>	

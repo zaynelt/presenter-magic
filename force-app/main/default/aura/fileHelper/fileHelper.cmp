@@ -7,7 +7,7 @@
     <aura:handler name="init" action="{!c.doInit}" value="this"/>
 
     <div class="slds-card">
-        <div class="slds-p-bottom_small">
+        <div class="slds-p-around_small">
         <lightning:fileUpload  name="fileUploader"
                             label= "Upload Presentation"
                             multiple="{!v.multiple}"

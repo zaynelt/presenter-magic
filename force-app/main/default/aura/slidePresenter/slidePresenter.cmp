@@ -1,5 +1,5 @@
 <aura:component>
-    <aura:attribute name="keynoteFile" type="String" default=""/>
+    <aura:attribute name="keynoteFile" type="String" default="0693B000000GOtRQAW"/>
     <aura:method name="slidesKO" action="{!c.kickoffSlides}"/>
     
     <div class="slds-p-around_small">
